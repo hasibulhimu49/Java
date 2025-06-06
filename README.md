@@ -226,5 +226,27 @@ This roadmap covers everything from fundamental Java syntax to advanced framewor
 4. **Multithreading**
 5. **JDBC**
 
+
+---
+## Resources
+
+- **Official Java Documentation:** [https://docs.oracle.com/javase/](https://docs.oracle.com/javase/)
+- **Online Java Tutorials:**  
+  - Oracle Tutorials  
+  - GeeksforGeeks  
+  - TutorialsPoint
+- **Books:**  
+  - *Effective Java* by Joshua Bloch  
+  - *Head First Java* by Kathy Sierra
+- **Online Courses:**  
+  - Udemy  
+  - Coursera  
+  - Pluralsight
+- **Practice Platforms:**  
+  - LeetCode  
+  - HackerRank  
+  - Codewars
+
+
 Once you have a solid foundation, move on to **Spring Boot and Microservices**. 🚀
 
